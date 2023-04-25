@@ -1,0 +1,10 @@
+D:\Project\FileCopy\FileCopy\bin\Debug\FileMonitor.exe.config
+D:\Project\FileCopy\FileCopy\bin\Debug\FileMonitor.exe
+D:\Project\FileCopy\FileCopy\bin\Debug\FileMonitor.pdb
+D:\Project\FileCopy\FileCopy\obj\Debug\FileMonitor.csproj.AssemblyReference.cache
+D:\Project\FileCopy\FileCopy\obj\Debug\FileCopy.Form1.resources
+D:\Project\FileCopy\FileCopy\obj\Debug\FileMonitor.Properties.Resources.resources
+D:\Project\FileCopy\FileCopy\obj\Debug\FileMonitor.csproj.GenerateResource.cache
+D:\Project\FileCopy\FileCopy\obj\Debug\FileMonitor.csproj.CoreCompileInputs.cache
+D:\Project\FileCopy\FileCopy\obj\Debug\FileMonitor.exe
+D:\Project\FileCopy\FileCopy\obj\Debug\FileMonitor.pdb
